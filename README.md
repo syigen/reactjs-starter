@@ -1,3 +1,20 @@
+# This comes with 
+
+| Library/Framework | Version  |
+|--------------------|----------|
+| React              | 18.2.0   |
+| React Router       | 6.9.0    |
+| Mobx               | 6.8.0    |
+| Mobx React         | 7.6.0    |
+| Typescript         | 4.9.5    |
+| Tailwind CSS       | 3.2.7    |
+| PrimeReact         | 9.2.0    |
+| PrimeIcons         | 6.0.1    |
+| Formik             | 2.2.9    |
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
